@@ -1,4 +1,4 @@
-# readme generator
+# readme-gen
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents 
   
@@ -9,10 +9,10 @@
   
   
   ## Installation
-  none
+  run node index.js then go through prompt
   
   ## Usage
-  none
+  run node index.js then go through prompt
   
   ## Credits
   none
